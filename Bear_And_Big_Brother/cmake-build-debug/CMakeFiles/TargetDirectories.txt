@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Bear_And_Big_Brother/cmake-build-debug/CMakeFiles/Bear_And_Big_Brother.dir
+C:/Users/xia/CLionProjects/codeforces/Bear_And_Big_Brother/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Bear_And_Big_Brother/cmake-build-debug/CMakeFiles/rebuild_cache.dir
