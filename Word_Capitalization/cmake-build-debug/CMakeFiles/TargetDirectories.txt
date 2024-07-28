@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Word_Capitalization/cmake-build-debug/CMakeFiles/Word_Capitalization.dir
+C:/Users/xia/CLionProjects/codeforces/Word_Capitalization/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Word_Capitalization/cmake-build-debug/CMakeFiles/rebuild_cache.dir
