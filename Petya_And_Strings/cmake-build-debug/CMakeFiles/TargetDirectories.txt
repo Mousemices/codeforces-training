@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Petya_And_Strings/cmake-build-debug/CMakeFiles/Petya_And_Strings.dir
+C:/Users/xia/CLionProjects/codeforces/Petya_And_Strings/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Petya_And_Strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
