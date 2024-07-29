@@ -20,7 +20,7 @@ int main() {
             lowercase_counter++;
         }
     }
-    
+
     if (uppercase_counter != 0 || lowercase_counter != 0) {
         if (uppercase_counter > lowercase_counter) {
             for (char & character : s) {
