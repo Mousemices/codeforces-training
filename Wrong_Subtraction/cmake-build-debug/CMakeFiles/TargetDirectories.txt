@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Wrong_Subtraction/cmake-build-debug/CMakeFiles/Wrong_Subtraction.dir
+C:/Users/xia/CLionProjects/codeforces/Wrong_Subtraction/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Wrong_Subtraction/cmake-build-debug/CMakeFiles/rebuild_cache.dir
