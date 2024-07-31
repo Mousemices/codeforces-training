@@ -10,13 +10,9 @@ int main() {
 
     bool is_found = false;
     string temporary_y;
-    int distinct_number_counter = 0;
+    int distinct_number_counter;
     int has_distinct_number;
-    // 1988
-    // 1 != 9 != 8 !=8  +1
-    // 9 !=8 !=8 +2
-    // 8 != 8 +3
-    // 8 No +4
+
     while (!is_found) {
         y += 1;
         temporary_y = to_string(y);
