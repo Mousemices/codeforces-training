@@ -8,7 +8,7 @@ int main() {
 
     cin >> n >> t;
     cin >> s;
-    
+
     for (int i = 0; i < t; ++i) {
         for (int j = 0; j < n; ++j) {
             if (j + 1 < n && s.at(j) == 'B' && s.at(j+1) == 'G') {

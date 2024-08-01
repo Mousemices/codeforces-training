@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/In_Search_Of_An_Easy_Problem/cmake-build-debug/CMakeFiles/In_Search_Of_An_Easy_Problem.dir
+C:/Users/xia/CLionProjects/codeforces/In_Search_Of_An_Easy_Problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/In_Search_Of_An_Easy_Problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
