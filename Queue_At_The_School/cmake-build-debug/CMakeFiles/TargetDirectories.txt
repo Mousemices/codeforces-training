@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Queue_At_The_School/cmake-build-debug/CMakeFiles/Queue_At_The_School.dir
+C:/Users/xia/CLionProjects/codeforces/Queue_At_The_School/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Queue_At_The_School/cmake-build-debug/CMakeFiles/rebuild_cache.dir
