@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Ultra-Fast_Mathematician/cmake-build-debug/CMakeFiles/Ultra_Fast_Mathematician.dir
+C:/Users/xia/CLionProjects/codeforces/Ultra-Fast_Mathematician/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Ultra-Fast_Mathematician/cmake-build-debug/CMakeFiles/rebuild_cache.dir
