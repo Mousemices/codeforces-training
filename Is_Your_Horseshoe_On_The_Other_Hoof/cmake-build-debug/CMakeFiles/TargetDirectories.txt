@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Is_Your_Horseshoe_On_The_Other_Hoof/cmake-build-debug/CMakeFiles/Is_Your_Horseshoe_On_The_Other_Hoof.dir
+C:/Users/xia/CLionProjects/codeforces/Is_Your_Horseshoe_On_The_Other_Hoof/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Is_Your_Horseshoe_On_The_Other_Hoof/cmake-build-debug/CMakeFiles/rebuild_cache.dir
