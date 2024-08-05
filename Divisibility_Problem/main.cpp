@@ -1,31 +1,23 @@
 #include <iostream>
-#include <limits>
-#include <vector>
 
 using namespace std;
 
 int main() {
     int t;
     long long a, b;
-    
+
     cin >> t;
 
-    int increment;
-    int result;
+    long long result, remainder;
 
     for (int i = 0; i < t; ++i) {
         cin >> a >> b;
-        increment = 0;
 
-        if (b > a) {
-            result = b;
-        }
-        for (int j = 1; j <= INT_MAX; ++j) {
-            if (b*j >= a) {
-                increment = j;
-                result = b*increment - a;
-                break;
-            }
+        if (a % b == 0) {
+            result = 0;
+        } else {
+            remainder = a % b;
+            result = b - remainder;
         }
 
         cout << result << endl;
