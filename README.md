@@ -10,4 +10,5 @@ This repository serves as a personal record of the problems I have solved, to tr
 
 - [ ] Helpful Maths: Use more eficient sorting algorithms like MergeSort or QuickSort, instead of SelectionSort.
 - [ ] I Wanna Be the Guy: Use set datastructure that fits the actual situation to ensure that all levels are unique.
+- [ ] Pangram: Use set for the performance, efficiency and readability.
 
