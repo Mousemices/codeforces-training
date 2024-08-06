@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/I_Wanna_Be_The_Guy/cmake-build-debug/CMakeFiles/I_Wanna_Be_The_Guy.dir
+C:/Users/xia/CLionProjects/codeforces/I_Wanna_Be_The_Guy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/I_Wanna_Be_The_Guy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
