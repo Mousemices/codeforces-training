@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Arrival_Of_The_General/cmake-build-debug/CMakeFiles/Arrival_Of_The_General.dir
+C:/Users/xia/CLionProjects/codeforces/Arrival_Of_The_General/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Arrival_Of_The_General/cmake-build-debug/CMakeFiles/rebuild_cache.dir
