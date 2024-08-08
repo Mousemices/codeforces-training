@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Anton_And_Letters/cmake-build-debug/CMakeFiles/Anton_And_Letters.dir
+C:/Users/xia/CLionProjects/codeforces/Anton_And_Letters/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Anton_And_Letters/cmake-build-debug/CMakeFiles/rebuild_cache.dir
