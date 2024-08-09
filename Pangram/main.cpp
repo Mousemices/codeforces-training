@@ -1,5 +1,5 @@
 #include <iostream>
-#include <vector>
+#include <set>
 
 using namespace std;
 
@@ -18,19 +18,10 @@ int main() {
        s[i] = (char) tolower(c);
     }
 
-    vector<char> unique_letters;
+    set<char> unique_letters;
 
     for (char character : s) {
-        int is_unique = true;
-        for (char unique_letter : unique_letters) {
-            if (unique_letter == character) {
-                is_unique = false;
-            }
-        }
-
-        if (is_unique) {
-            unique_letters.push_back(character);
-        }
+        unique_letters.insert(character);
     }
 
     if (unique_letters.size() == latin_letter_count) {
