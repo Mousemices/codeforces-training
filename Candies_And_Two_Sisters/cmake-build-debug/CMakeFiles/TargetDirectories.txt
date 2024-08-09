@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Candies_And_Two_Sisters/cmake-build-debug/CMakeFiles/Candies_And_Two_Sisters.dir
+C:/Users/xia/CLionProjects/codeforces/Candies_And_Two_Sisters/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Candies_And_Two_Sisters/cmake-build-debug/CMakeFiles/rebuild_cache.dir
