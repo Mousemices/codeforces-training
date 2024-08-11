@@ -1,0 +1,20 @@
+# ninja log v5
+0	407	7451086177239009	CMakeFiles/Sum_Of_Round_Numbers.dir/main.cpp.obj	6f3b7dda830e1474
+4	336	7451086428204665	CMakeFiles/Sum_Of_Round_Numbers.dir/main.cpp.obj	6f3b7dda830e1474
+337	419	7451086429001927	Sum_Of_Round_Numbers.exe	2023fe2b68409968
+3	479	7451090042110838	CMakeFiles/Sum_Of_Round_Numbers.dir/main.cpp.obj	6f3b7dda830e1474
+479	576	7451090043057777	Sum_Of_Round_Numbers.exe	2023fe2b68409968
+2	419	7451090325029207	CMakeFiles/Sum_Of_Round_Numbers.dir/main.cpp.obj	6f3b7dda830e1474
+420	504	7451090325851348	Sum_Of_Round_Numbers.exe	2023fe2b68409968
+3	443	7451090470488589	CMakeFiles/Sum_Of_Round_Numbers.dir/main.cpp.obj	6f3b7dda830e1474
+444	530	7451090471317983	Sum_Of_Round_Numbers.exe	2023fe2b68409968
+3	496	7451214144974450	CMakeFiles/Sum_Of_Round_Numbers.dir/main.cpp.obj	6f3b7dda830e1474
+496	607	7451214146052725	Sum_Of_Round_Numbers.exe	2023fe2b68409968
+2	423	7451214800732587	CMakeFiles/Sum_Of_Round_Numbers.dir/main.cpp.obj	6f3b7dda830e1474
+424	514	7451214801594273	Sum_Of_Round_Numbers.exe	2023fe2b68409968
+3	438	7451215553053338	CMakeFiles/Sum_Of_Round_Numbers.dir/main.cpp.obj	6f3b7dda830e1474
+438	522	7451215553875615	Sum_Of_Round_Numbers.exe	2023fe2b68409968
+3	418	7451215692278760	CMakeFiles/Sum_Of_Round_Numbers.dir/main.cpp.obj	6f3b7dda830e1474
+418	504	7451215693116340	Sum_Of_Round_Numbers.exe	2023fe2b68409968
+3	445	7451219463507104	CMakeFiles/Sum_Of_Round_Numbers.dir/main.cpp.obj	6f3b7dda830e1474
+445	530	7451219464318575	Sum_Of_Round_Numbers.exe	2023fe2b68409968
