@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Amusing_Joke/cmake-build-debug/CMakeFiles/Amusing_Joke.dir
+C:/Users/xia/CLionProjects/codeforces/Amusing_Joke/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Amusing_Joke/cmake-build-debug/CMakeFiles/rebuild_cache.dir
