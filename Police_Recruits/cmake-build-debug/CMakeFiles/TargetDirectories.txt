@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Police_Recruits/cmake-build-debug/CMakeFiles/Police_Recruits.dir
+C:/Users/xia/CLionProjects/codeforces/Police_Recruits/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Police_Recruits/cmake-build-debug/CMakeFiles/rebuild_cache.dir
