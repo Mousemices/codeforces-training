@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/The_New_Year Meeting_Friends/cmake-build-debug/CMakeFiles/The_New_Year_Meeting_Friends.dir
+C:/Users/xia/CLionProjects/codeforces/The_New_Year Meeting_Friends/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/The_New_Year Meeting_Friends/cmake-build-debug/CMakeFiles/rebuild_cache.dir
