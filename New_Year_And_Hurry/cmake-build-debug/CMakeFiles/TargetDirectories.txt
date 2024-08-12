@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/New_Year_And_Hurry/cmake-build-debug/CMakeFiles/New_Year_And_Hurry.dir
+C:/Users/xia/CLionProjects/codeforces/New_Year_And_Hurry/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/New_Year_And_Hurry/cmake-build-debug/CMakeFiles/rebuild_cache.dir
