@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Buy_A_Shovel/cmake-build-debug/CMakeFiles/Buy_A_Shovel.dir
+C:/Users/xia/CLionProjects/codeforces/Buy_A_Shovel/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Buy_A_Shovel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
