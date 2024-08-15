@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Restoring_Three_Numbers/cmake-build-debug/CMakeFiles/Restoring_Three_Numbers.dir
+C:/Users/xia/CLionProjects/codeforces/Restoring_Three_Numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Restoring_Three_Numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
