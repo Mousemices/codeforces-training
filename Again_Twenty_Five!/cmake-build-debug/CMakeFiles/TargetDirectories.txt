@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Again_Twenty_Five!/cmake-build-debug/CMakeFiles/Again_Twenty_Five_.dir
+C:/Users/xia/CLionProjects/codeforces/Again_Twenty_Five!/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Again_Twenty_Five!/cmake-build-debug/CMakeFiles/rebuild_cache.dir
