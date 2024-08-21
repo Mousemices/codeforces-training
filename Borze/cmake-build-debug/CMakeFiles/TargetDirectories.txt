@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Borze/cmake-build-debug/CMakeFiles/Borze.dir
+C:/Users/xia/CLionProjects/codeforces/Borze/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Borze/cmake-build-debug/CMakeFiles/rebuild_cache.dir
