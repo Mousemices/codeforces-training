@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Plus_Or_Minus/cmake-build-debug/CMakeFiles/Plus_Or_Minus.dir
+C:/Users/xia/CLionProjects/codeforces/Plus_Or_Minus/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Plus_Or_Minus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
