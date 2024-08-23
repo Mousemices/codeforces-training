@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Holiday_Of_Equality/cmake-build-debug/CMakeFiles/Holiday_Of_Equality.dir
+C:/Users/xia/CLionProjects/codeforces/Holiday_Of_Equality/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Holiday_Of_Equality/cmake-build-debug/CMakeFiles/rebuild_cache.dir
