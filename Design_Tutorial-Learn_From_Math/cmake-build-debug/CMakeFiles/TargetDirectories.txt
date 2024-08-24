@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Design_Tutorial-Learn_From_Math/cmake-build-debug/CMakeFiles/Design_Tutorial_Learn_From_Math.dir
+C:/Users/xia/CLionProjects/codeforces/Design_Tutorial-Learn_From_Math/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Design_Tutorial-Learn_From_Math/cmake-build-debug/CMakeFiles/rebuild_cache.dir
