@@ -44,7 +44,6 @@ int main() {
             } else {
                 break;
             }
-
             i += 2;
         }
     }
