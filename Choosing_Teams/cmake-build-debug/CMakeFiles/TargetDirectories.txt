@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Choosing_Teams/cmake-build-debug/CMakeFiles/Choosing_Teams.dir
+C:/Users/xia/CLionProjects/codeforces/Choosing_Teams/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Choosing_Teams/cmake-build-debug/CMakeFiles/rebuild_cache.dir
