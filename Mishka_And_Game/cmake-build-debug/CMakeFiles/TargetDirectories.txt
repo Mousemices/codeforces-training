@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Mishka_And_Game/cmake-build-debug/CMakeFiles/Mishka_And_Game.dir
+C:/Users/xia/CLionProjects/codeforces/Mishka_And_Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Mishka_And_Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
