@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/To_My_Critics/cmake-build-debug/CMakeFiles/To_My_Critics.dir
+C:/Users/xia/CLionProjects/codeforces/To_My_Critics/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/To_My_Critics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
