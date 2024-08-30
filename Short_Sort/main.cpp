@@ -4,6 +4,7 @@ using namespace std;
 
 int main() {
     int t;
+    const string target = "abc";
     string word, result;
 
     cin >> t;
@@ -14,7 +15,15 @@ int main() {
         if (word == "abc") {
             result = "YES";
         } else {
-            if (word == "cba" || word == "acb" || word == "bac") {
+            int mismatch_count = 0;
+
+            for (int j = 0; j < 3; ++j) {
+                if (word[j] != target[j]) {
+                    mismatch_count++;
+                }
+            }
+
+            if (mismatch_count == 2) {
                 result = "YES";
             } else {
                 result = "NO";
