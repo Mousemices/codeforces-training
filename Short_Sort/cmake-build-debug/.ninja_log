@@ -1,0 +1,25 @@
+# ninja log v6
+2	429	7467476932143807	CMakeFiles/Short_Sort.dir/main.cpp.obj	a65c414447a518aa
+431	559	7467476936429545	Short_Sort.exe	c93763f5ea3ba8be
+6	372	7467478532098805	CMakeFiles/Short_Sort.dir/main.cpp.obj	a65c414447a518aa
+373	467	7467478535760664	Short_Sort.exe	c93763f5ea3ba8be
+13	351	7467478699805786	CMakeFiles/Short_Sort.dir/main.cpp.obj	a65c414447a518aa
+352	444	7467478703194483	Short_Sort.exe	c93763f5ea3ba8be
+7	342	7467479524731563	CMakeFiles/Short_Sort.dir/main.cpp.obj	a65c414447a518aa
+343	421	7467479528094483	Short_Sort.exe	c93763f5ea3ba8be
+15	354	7467479626574284	CMakeFiles/Short_Sort.dir/main.cpp.obj	a65c414447a518aa
+365	443	7467479630076863	Short_Sort.exe	c93763f5ea3ba8be
+13	358	7467479901959668	CMakeFiles/Short_Sort.dir/main.cpp.obj	a65c414447a518aa
+358	436	7467479905414974	Short_Sort.exe	c93763f5ea3ba8be
+12	361	7467480873326163	CMakeFiles/Short_Sort.dir/main.cpp.obj	a65c414447a518aa
+361	450	7467480876820064	Short_Sort.exe	c93763f5ea3ba8be
+12	367	7467482886996320	CMakeFiles/Short_Sort.dir/main.cpp.obj	a65c414447a518aa
+368	450	7467482890550780	Short_Sort.exe	c93763f5ea3ba8be
+11	367	7467483756464061	CMakeFiles/Short_Sort.dir/main.cpp.obj	a65c414447a518aa
+367	457	7467483760024801	Short_Sort.exe	c93763f5ea3ba8be
+12	412	7467487794122684	CMakeFiles/Short_Sort.dir/main.cpp.obj	a65c414447a518aa
+413	508	7467487798128267	Short_Sort.exe	c93763f5ea3ba8be
+6	425	7467488342612707	CMakeFiles/Short_Sort.dir/main.cpp.obj	a65c414447a518aa
+426	532	7467488346805544	Short_Sort.exe	c93763f5ea3ba8be
+13	440	7467489157841621	CMakeFiles/Short_Sort.dir/main.cpp.obj	a65c414447a518aa
+441	520	7467489162110757	Short_Sort.exe	c93763f5ea3ba8be
