@@ -8,15 +8,9 @@ int main() {
     cin >> t;
 
     for (int i = 0; i < t; ++i) {
-        k = 0;
-
         cin >> x >> y >> n;
 
-        for (int j = 0; j < n; ++j) {
-            if (j % x == y) {
-                k = j;
-            }
-        }
+        k = n - (n - y) % x;
 
         cout << k << endl;
     }
