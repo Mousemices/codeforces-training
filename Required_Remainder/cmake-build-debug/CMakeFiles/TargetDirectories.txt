@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Required_Remainder/cmake-build-debug/CMakeFiles/Required_Remainder.dir
+C:/Users/xia/CLionProjects/codeforces/Required_Remainder/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Required_Remainder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
