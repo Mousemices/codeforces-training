@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Panoramix's_Prediction/cmake-build-debug/CMakeFiles/Panoramix_s_Prediction.dir
+C:/Users/xia/CLionProjects/codeforces/Panoramix's_Prediction/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Panoramix's_Prediction/cmake-build-debug/CMakeFiles/rebuild_cache.dir
