@@ -11,18 +11,6 @@ int main() {
     for (int i = 0; i < t; ++i) {
         cin >> n;
 
-        // size: 1
-        // 0
-        // answer = 0, not -1
-
-        // size: 1
-        // -1
-        // answer = -1
-
-        // 3
-        // 1 1 1
-        // answer -1, not 1
-
         vector<int> elements(n);
         int wrong_position_count = 0, even_number_count = 0, odd_number_count = 0;
 
