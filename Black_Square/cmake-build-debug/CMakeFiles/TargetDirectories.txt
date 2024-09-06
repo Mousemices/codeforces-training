@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Black_Square/cmake-build-debug/CMakeFiles/Black_Square.dir
+C:/Users/xia/CLionProjects/codeforces/Black_Square/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Black_Square/cmake-build-debug/CMakeFiles/rebuild_cache.dir
