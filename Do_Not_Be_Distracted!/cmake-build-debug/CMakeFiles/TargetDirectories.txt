@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Do_Not_Be_Distracted!/cmake-build-debug/CMakeFiles/Do_Not_Be_Distracted_.dir
+C:/Users/xia/CLionProjects/codeforces/Do_Not_Be_Distracted!/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Do_Not_Be_Distracted!/cmake-build-debug/CMakeFiles/rebuild_cache.dir
