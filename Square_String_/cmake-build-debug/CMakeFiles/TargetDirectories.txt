@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Square_String_/cmake-build-debug/CMakeFiles/Square_String_.dir
+C:/Users/xia/CLionProjects/codeforces/Square_String_/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Square_String_/cmake-build-debug/CMakeFiles/rebuild_cache.dir
