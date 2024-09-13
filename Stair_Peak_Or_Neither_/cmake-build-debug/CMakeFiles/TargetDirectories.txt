@@ -1,0 +1,3 @@
+C:/Users/xia/CLionProjects/codeforces/Stair_Peak_Or_Neither_/cmake-build-debug/CMakeFiles/Stair_Peak_Or_Neither_.dir
+C:/Users/xia/CLionProjects/codeforces/Stair_Peak_Or_Neither_/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xia/CLionProjects/codeforces/Stair_Peak_Or_Neither_/cmake-build-debug/CMakeFiles/rebuild_cache.dir
